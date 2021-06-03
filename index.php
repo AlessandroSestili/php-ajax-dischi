@@ -14,10 +14,10 @@ include __DIR__ . '/partials/template/header.php';
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Discs</title>
-    <link rel="stylesheet" href="dist/style.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="dist/app.css">
+
+    <title>PHP-AJAX-DISCHI</title>
 </head>
 
 <body>
