@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlessandroSestili/php-ajax-dischi.git"
+    "url": "git+https://github.com/alessiotoni/php-ajax-dischi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlessandroSestili/php-ajax-dischi/issues"
+    "url": "https://github.com/alessiotoni/php-ajax-dischi/issues"
   },
-  "homepage": "https://github.com/AlessandroSestili/php-ajax-dischi#readme",
+  "homepage": "https://github.com/alessiotoni/php-ajax-dischi#readme",
   "dependencies": {
     "laravel-mix": "^6.0.19"
   },
